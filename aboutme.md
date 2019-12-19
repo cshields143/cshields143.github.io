@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to abrogate particularity with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I love words for words' sake.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am day-by-day becoming a Minecraft app developer, because my son loves playing with them but needs help setting them up sometimes.
 
-What else do you need?
+I excel at leveraging my full-stack web development experience into something that resembles software engineering.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+While it may be a pipe dream for my lifetime, I'd like to think we're on the cusp of a practical answer to the Turing test, and I think it would be pretty cool to be a part of that journey.
